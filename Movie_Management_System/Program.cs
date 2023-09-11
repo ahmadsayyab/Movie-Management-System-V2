@@ -10,6 +10,7 @@ namespace Movie_Management_System
     {
         static void Main(string[] args)
         {
+            OPerationsMenu.Menu();
         }
     }
 }
